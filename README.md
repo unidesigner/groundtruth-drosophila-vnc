@@ -1,4 +1,3 @@
-
 Segmented anisotropic ssTEM dataset of neural tissue
 ----------------------------------------------------
 
@@ -28,8 +27,8 @@ You are free to use this data set for the purpose of generating or testing non-c
        /membranes: Series of binary images of segmented membranes
        /mitochondria: Series of binary images of segmented mitochondria
        /synapses: Series of binary images of segmented synapses
-       /labels: Series of merged labels including oriented membranes, membrane junctions, mitochondria and synapses.
-                The pixels are labeled as follows:
+       /labels: Series of merged labels including oriented membranes, membrane junctions,
+                mitochondria and synapses. The pixels are labeled as follows:
                 0   -> membrane | (0°)
                 32  -> membrane / (45°)
                 64  -> membrane - (90°)
